@@ -14,7 +14,7 @@
 	<name>assignment-1</name>
 	<description>M10 C5</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>21</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
